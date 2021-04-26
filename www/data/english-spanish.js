@@ -1,0 +1,23 @@
+var langdata = [
+{"language1":"hello","language2":"Hola","level":"1"},
+{"language1":"excuse me","language2":"disculpe","level":"2"},
+{"language1":"goodbye","language2":"adiós","level":"3"},
+{"language1":"please","language2":"por favor","level":"3"},
+{"language1":"thankyou","language2":"gracias","level":"5"},
+{"language1":"yes","language2":"sí","level":"6"},
+{"language1":"no","language2":"no","level":"7"},
+{"language1":"five","language2":"cinco","level":"8"},
+{"language1":"name","language2":"nombre","level":"9"},
+{"language1":"what","language2":"qué","level":"10"},
+{"language1":"two","language2":"dos","level":"11"}, 
+{"language1":"five","language2":"cinco","level":"12"},
+{"language1":"bad","language2":"malo","level":"13"},
+{"language1":"where","language2":"dónde","level":"14"},
+{"language1":"toilet","language2":"baño","level":"15"},
+{"language1":"me","language2":"yo","level":"16"},
+{"language1":"chicken","language2":"pollo","level":"17"},
+{"language1":"for","language2":"para","level":"18"},
+{"language1":"this","language2":"esta","level":"19"},
+{"language1":"chico","language2":"boy","level":"20"},
+{"language1":"chica","language2":"girl","level":"21"}
+]

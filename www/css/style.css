@@ -1,0 +1,29 @@
+#draggable { width: 70px; height: 70px; padding: 0.5em; float: left; margin: 10px 10px 10px 0; }
+#droppable { width: 70px; height: 70px; padding: 0.5em; float: left;  margin: 10px 10px 10px 0; }
+#makeMeDraggable { width: 70px; height: 70px; padding: 0.5em; float: left; margin: 10px 10px 10px 0; }
+#draggableHelper { width: 70px; height: 70px; background: yellow; }
+.backgroundimage
+{
+    background-size:cover; no-repeat center #eee 
+}
+.roundedcorners
+{
+    padding: 3px;
+    border-radius: 15px;
+    -moz-border-radius: 15px;
+    align : center;
+    height : 20px
+}
+
+input[type=range][orient=vertical]
+{
+    writing-mode: bt-lr; /* IE */
+    -webkit-appearance: slider-vertical; /* WebKit */
+    width: 8px;
+    height: 175px;
+    padding: 0 5px;
+    readonly : "1";
+}
+    
+
+
